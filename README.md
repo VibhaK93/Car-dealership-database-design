@@ -15,3 +15,6 @@
 
   ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advertisement Page
   ![Advertisement_Inner_Page](https://github.com/VibhaK93/Car-dealership-database-design/assets/146596962/9292b719-1ad3-4b5f-b5c8-7771aaee3167)
+
+ ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Edit/Update Advertisement Page
+  ![Edit:Update_Advertisment_Detail](https://github.com/VibhaK93/Car-dealership-database-design/assets/146596962/6994a905-0f8f-465c-85ed-bbc9db9e8a6c)
