@@ -5,11 +5,11 @@ The goal of the project is to design a car dealership database with a logical de
   ![ER Diagram](https://github.com/VibhaK93/Car-dealership-database-design/assets/146596962/ea1e873b-6f2e-477f-9f88-6102c46b1571)
 
 ## External schema, user views, forms
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; User Registration
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-!(https://github.com/VibhaK93/Car-dealership-database-design/assets/146596962/46b39a5b-9cb4-430c-8c24-6ab8dca421db)
+ ![User Registration](https://github.com/VibhaK93/Car-dealership-database-design/assets/146596962/cdac165a-8758-475e-8643-61324627d3eb)
 
-  ![User Registration](https://github.com/VibhaK93/Car-dealership-database-design/assets/146596962/8c93d42a-7968-4c58-a2e3-84c50b05f8ce)
+ ![User Registration](https://github.com/VibhaK93/Car-dealership-database-design/assets/146596962/8c93d42a-7968-4c58-a2e3-84c50b05f8ce)
   
   ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advertisement Post Page
   ![Advertisement_Page](https://github.com/VibhaK93/Car-dealership-database-design/assets/146596962/a0477969-cbf3-4000-b658-ad689a67fc17)
