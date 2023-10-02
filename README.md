@@ -6,3 +6,6 @@
 ## External schema, user views, forms
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; User Registration
   ![User Registration](https://github.com/VibhaK93/Car-dealership-database-design/assets/146596962/8c93d42a-7968-4c58-a2e3-84c50b05f8ce)
+  
+  ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advertisement Page
+  ![Advertisement_Page](https://github.com/VibhaK93/Car-dealership-database-design/assets/146596962/a0477969-cbf3-4000-b658-ad689a67fc17)
