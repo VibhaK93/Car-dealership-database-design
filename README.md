@@ -6,15 +6,6 @@ The goal of the project is to design a car dealership database with a logical de
 
 ## External schema, user views, forms
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; User Registration
---To Add user/car/advertisement/photo values in User/car/advertisement/photo table
-
-INSERT INTO User (UserType_UserTypeID, FirstName, LastName, Email, Phone) VALUES ('1', 'Ben', 'Smith', 'ben@abc.com', '1112228888');
-
-INSERT INTO Car (BodyStyle_BodyStyleID, ConditionType_ConditionTypeID, Model_ModelID, ManufacturingYear, Mileage, CarColor) VALUES ('1', '2', '1', '2021', '200', 'Black');
-
-INSERT INTO Advertisement (User_UserID, Car_CarID, Price, AdvDescription, AdvertisementActive, DatePosted) VALUES ('1','1', '3948.99', 'Immediately available', 0, '2022-04-19');
-
-INSERT INTO Photo (Advertisement_AdvertisementID, PhotoLink, PhotoDescription) VALUES ('1', 'IMG000000032.JPG', 'Sweet New Car');
 
   ![User Registration](https://github.com/VibhaK93/Car-dealership-database-design/assets/146596962/8c93d42a-7968-4c58-a2e3-84c50b05f8ce)
   
