@@ -1,4 +1,4 @@
---To Add user/car/advertisement/photo values in User/car/advertisement/photo table
+--To Add user/car/advertisement/photo values in the User/car/advertisement/photo table
 
 INSERT INTO User (UserType_UserTypeID, FirstName, LastName, Email, Phone) VALUES ('1', 'Ben', 'Smith', 'ben@abc.com', '1112228888');
 
